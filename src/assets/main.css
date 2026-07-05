@@ -1,0 +1,10 @@
+body {
+  background-color: #E1F5FE;
+}
+
+#app {  
+  width: 800px;
+  margin: 0 auto;
+  padding: 1rem;
+  font-weight: normal;
+}
